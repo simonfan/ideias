@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Leituras: Design para um mundo complexo"
+date:   2014-10-13
+---
+
+# Adequação e forma (p.30-31)
+
+[...] Olhamos para uma mesa e asseveramos que ela é sólida ou, com iantenção quase idêntica, que ela tem solidez. Que ela é sólida, e não líquida ou gasosa, é evidente. Não eé disso que estamos falando. Em um nível. trata-se de uma suposição de que ela seja bem construída: sólida, no sentido de não ser frágil. Em outro nível. contudo, quando nos referimos à solidez da mesa, expomos também um juízo de valor. É também a uma solidez moral que fazemos referência, do mesmo modo metafórico que falamos da solidez de uma empresa ou do caráter de uma pessoa. A pergunta é: como se opera esse processo de transpor qualidades perceptíveis visualmente para juízos conceituais de valor? Formudala de maneira mais simples, porém mais passível de gerar interpretaç~es confusas: de que modo as formas expressam significados? Mão é por ser questão de difícil resposta que devemos descartá-la, pois seu dimensionamento é muito importante para compreendermos o papel do design no mundo. Insistamos, mesmo que a resposta seja parcial, mesmo que não exista resposta, mesm oque seja apenas para formularmos melhor as perugntas.  
+
+A não ser que se tenha uma definição muito precisa daquilo que se entende por forma, um enunciado como "a forma segue a função" não que dizer nada. Nas discussões desse tema em Língua Portuguesa, é grande o perigo de tropeçar na multiplicidade de significados contidos na plavra "forma". É um tero escorregadio em muitos idiomas ,e com boa razão; porém nas línguas latinas ,ele possui uma flata de especificidade especialmente problemática. Entre nós, não há o costume de distinguir o aspecto da "forma" - referente à aparência e à superfície - daquele que se refere à volumetria e ao contorno (o qual, em inglês, corresponderia à palavra _shape_). [...] Para avançar na disussão da forma, é preciso desmembrar o termo e considerar seus significados um a um. Claramente, "forma" abrange pelo menos trÊs aspectos internamente 
